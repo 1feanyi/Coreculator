@@ -1,0 +1,11 @@
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\bin\Debug\netcoreapp2.1\Coreculator.deps.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\bin\Debug\netcoreapp2.1\Coreculator.runtimeconfig.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\bin\Debug\netcoreapp2.1\Coreculator.runtimeconfig.dev.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\bin\Debug\netcoreapp2.1\Coreculator.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\bin\Debug\netcoreapp2.1\Coreculator.pdb
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.csprojAssemblyReference.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.csproj.CoreCompileInputs.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.AssemblyInfoInputs.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.AssemblyInfo.cs
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator\obj\Debug\netcoreapp2.1\Coreculator.pdb

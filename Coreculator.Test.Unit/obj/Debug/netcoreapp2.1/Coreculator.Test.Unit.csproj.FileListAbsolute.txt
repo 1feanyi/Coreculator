@@ -1,0 +1,17 @@
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.Test.Unit.deps.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.Test.Unit.runtimeconfig.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.Test.Unit.runtimeconfig.dev.json
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.Test.Unit.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.Test.Unit.pdb
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\bin\Debug\netcoreapp2.1\Coreculator.pdb
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.AssemblyInfoInputs.cache
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.AssemblyInfo.cs
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.csproj.CopyComplete
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.dll
+C:\Users\iigbo\Desktop\sandbox\Coreculator\Coreculator.Test.Unit\obj\Debug\netcoreapp2.1\Coreculator.Test.Unit.pdb
